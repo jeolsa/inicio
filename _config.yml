@@ -1,0 +1,11 @@
+rewrites:
+  - source: /inicio
+    destination: /index.html
+  - source: /proyectos
+    destination: /index.html
+  - source: /servicios
+    destination: /index.html
+  - source: /curriculum
+    destination: /index.html
+  - source: /contacto
+    destination: /index.html
